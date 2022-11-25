@@ -1,0 +1,17 @@
+.comment__user img{
+    width: 60px;
+    height: 60px;
+    border-radius: 50%;
+}
+.comment__user{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+}
+.comment__name{
+    margin-left: 10px;
+}
+.comment_container{
+    border: 2px solid black;
+}

@@ -1,0 +1,13 @@
+.header__F {
+    text-align: center;
+    padding: 30px;
+    margin-bottom: 10px;
+    background-image: linear-gradient(45deg, black, #0098ff);
+    color: white;
+    font-family: auto;
+}
+.header__F h1{
+    font-size: 21px;
+    line-height: 62px;
+    text-shadow: 3px 1px 4px red;
+}

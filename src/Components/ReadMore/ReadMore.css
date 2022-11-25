@@ -1,0 +1,10 @@
+.detles__card{
+    border: 1px solid tomato;
+    text-align: center;
+    padding: 30px;
+}
+.detles__card img{
+    width: 130px;
+    height: 130px;
+    border-radius: 50%;
+}

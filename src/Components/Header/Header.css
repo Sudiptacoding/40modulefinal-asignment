@@ -1,0 +1,10 @@
+.search__card{
+    margin: 3px 0px;
+}
+.input_b{
+    background-color: #fff3f3;
+    border: none;
+    box-shadow: 1px 2px 7px 3px grey;
+    padding: 2px 16px;
+    border-radius: 4px;
+}

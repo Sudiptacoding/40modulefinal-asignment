@@ -1,0 +1,25 @@
+.search___item {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-wrap: wrap;
+    width: 80%;
+    margin: 0px auto;
+    border: 1px solid;
+    height: 125px;
+    color: white;
+    background-image: linear-gradient(45deg, black, #00000096);
+}
+
+.search___item img {
+    height: 100px;
+    width: 100px;
+    border-radius: 50%;
+    border: 2px solid lightblue;
+    padding: 3px;
+}
+
+.text_search {
+    margin-left: 20px;
+    width: 80%;
+}
